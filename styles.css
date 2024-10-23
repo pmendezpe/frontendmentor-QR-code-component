@@ -5,12 +5,12 @@ body {
     font-family: outfit;
     text-align: center;
     background-color: hsl(212, 45%, 89%);
-    min-height: 100vh; /* Asegura que el body ocupe toda la altura de la ventana */
-    margin: 0; /* Elimina los márgenes predeterminados */
+    min-height: 100vh; 
+    margin: 0; 
     display: flex;
-    flex-direction: column; /* Apila el main y el footer verticalmente */
-    justify-content: center; /* Alinea verticalmente el contenido */
-    align-items: center; /* Alinea horizontalmente el contenido */
+    flex-direction: column; 
+    justify-content: center; 
+    align-items: center; 
 }
 
 main {
